@@ -1,49 +1,49 @@
 <mxfile host="65bd71144e">
     <diagram id="5gf0569pc7xIh0UR2XcN" name="User Stories">
-        <mxGraphModel dx="1121" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1398" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="8" value="As a user I want a 3D Earth environment&amp;nbsp;&lt;div&gt;with 3D satellite in their objects respective to Earth&lt;/div&gt;&lt;div&gt;and when I click on the Satellite I want to be zoomed towards&amp;nbsp;&lt;/div&gt;&lt;div&gt;that satellite and be told specifics about that satellite such as&amp;nbsp;&lt;/div&gt;&lt;div&gt;when it was made, by what country, how far from the Earth and&amp;nbsp;&lt;/div&gt;&lt;div&gt;what it provides to the Earth&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="180" y="30" width="360" height="100" as="geometry"/>
+                <mxCell id="8" value="As a user I want a 3D Earth environment&amp;nbsp;&lt;div&gt;with 3D satellite in their objects respective to Earth&lt;/div&gt;&lt;div&gt;and when I click on the Satellite I want to be zoomed towards&amp;nbsp;&lt;/div&gt;&lt;div&gt;that satellite and be told specifics about that satellite such as&amp;nbsp;&lt;/div&gt;&lt;div&gt;when it was made, by what country, how far from the Earth and&amp;nbsp;&lt;/div&gt;&lt;div&gt;what it provides to the Earth&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="30" width="360" height="100" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="ILWs7dEA4103MghcAqce" name="Use Case Diagram">
-        <mxGraphModel dx="1121" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1398" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="8q7KMO1-cTkE-ni1I5VT-4" value="" style="edgeStyle=none;html=1;entryX=0;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8q7KMO1-cTkE-ni1I5VT-2" target="8q7KMO1-cTkE-ni1I5VT-6">
+                <mxCell id="8q7KMO1-cTkE-ni1I5VT-4" value="" style="edgeStyle=none;html=1;entryX=0;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8q7KMO1-cTkE-ni1I5VT-2" target="8q7KMO1-cTkE-ni1I5VT-6" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="222.78999999999996" y="149.87" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="8q7KMO1-cTkE-ni1I5VT-8" value="" style="edgeStyle=none;html=1;entryX=0.008;entryY=0.322;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8q7KMO1-cTkE-ni1I5VT-2" target="8q7KMO1-cTkE-ni1I5VT-9">
+                <mxCell id="8q7KMO1-cTkE-ni1I5VT-8" value="" style="edgeStyle=none;html=1;entryX=0.008;entryY=0.322;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8q7KMO1-cTkE-ni1I5VT-2" target="8q7KMO1-cTkE-ni1I5VT-9" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="248.64801318652394" y="241.60797635403867" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="8q7KMO1-cTkE-ni1I5VT-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+                <mxCell id="8q7KMO1-cTkE-ni1I5VT-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
                     <mxGeometry x="90" y="160" width="30" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="8q7KMO1-cTkE-ni1I5VT-11" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="8q7KMO1-cTkE-ni1I5VT-6" target="8q7KMO1-cTkE-ni1I5VT-10">
+                <mxCell id="8q7KMO1-cTkE-ni1I5VT-11" value="" style="edgeStyle=none;html=1;" parent="1" source="8q7KMO1-cTkE-ni1I5VT-6" target="8q7KMO1-cTkE-ni1I5VT-10" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="8q7KMO1-cTkE-ni1I5VT-6" value="Clicks on satellite" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="8q7KMO1-cTkE-ni1I5VT-6" value="Clicks on satellite" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="227.5" y="80" width="115" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="8q7KMO1-cTkE-ni1I5VT-9" value="Rotates the 3D model of the Earth" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="8q7KMO1-cTkE-ni1I5VT-9" value="Rotates the 3D model of the Earth" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="220" y="250" width="130" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="8q7KMO1-cTkE-ni1I5VT-10" value="Display Satellite information" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="8q7KMO1-cTkE-ni1I5VT-10" value="Display Satellite information" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="500" y="110" width="105" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="8q7KMO1-cTkE-ni1I5VT-13" style="edgeStyle=none;html=1;" edge="1" parent="1" source="8q7KMO1-cTkE-ni1I5VT-12" target="8q7KMO1-cTkE-ni1I5VT-10">
+                <mxCell id="8q7KMO1-cTkE-ni1I5VT-13" style="edgeStyle=none;html=1;" parent="1" source="8q7KMO1-cTkE-ni1I5VT-12" target="8q7KMO1-cTkE-ni1I5VT-10" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="8q7KMO1-cTkE-ni1I5VT-12" value="NASA" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+                <mxCell id="8q7KMO1-cTkE-ni1I5VT-12" value="NASA" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
                     <mxGeometry x="780" y="110" width="30" height="60" as="geometry"/>
                 </mxCell>
             </root>
