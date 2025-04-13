@@ -4,13 +4,13 @@ const WHITE = 0xffffff;
 
 
 export function Light(scene){
-    const ambientLight = new THREE.AmbientLight(WHITE, 0.56);
+    const ambientLight = new THREE.AmbientLight(WHITE, 3);
     ambientLight.castShadow = true;
     scene.add(ambientLight);
 }
 
 export function SpotLight(scene){
-    const spotLight = new THREE.SpotLight(WHITE, 1);
+    const spotLight = new THREE.SpotLight(WHITE, 3);
     spotLight.castShadow = true;
     // This sets it slightly above and behind the camera
     // I'll refactor this later so we dont have magic numbers

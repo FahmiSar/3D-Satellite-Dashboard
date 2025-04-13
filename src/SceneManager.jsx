@@ -41,16 +41,19 @@ class SceneManager{
             nearPlane,
             farPlane
         );
-        camera.position.z = 96;
+        camera.position.z = 70;
 
         return camera;
     }
 
     createSceneSubjects(scene){
+        const axesHelper = new THREE.AxesHelper(10000000); // 10 is the length of the axes
+        scene.add(axesHelper);
         const sceneSubjects = [
             new Light(scene),
             new SpotLight(scene),
-            new Objects.Cube(scene)
+            new Objects.Earth(scene),
+            new Objects.satellite(scene, {x: 10, y: 10, z: 10})
         ]
 
         return sceneSubjects;
