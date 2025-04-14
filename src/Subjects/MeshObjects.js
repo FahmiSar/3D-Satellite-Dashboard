@@ -18,7 +18,7 @@ const satelliteSize = {
 const panelSize = {
 	width: 0.7,
 	height: 1.5,
-	depth: 0.125
+	depth: 0.125 // one-eighth of the default size so that panel is thin
 }
 
 
@@ -107,6 +107,7 @@ export function satellite(scene, position){
 		position.y,
 		position.z
 	);
+	
 	scene.add(satellite);
-
+	return satellite;
 };
